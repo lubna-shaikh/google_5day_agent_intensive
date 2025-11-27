@@ -2,12 +2,6 @@
 
 # 🟦 Preparatory Work Summary
 
-This document combines all insights, debugging steps, and lessons learned from BOTH chats:  
-– the setup instructions from the other conversation  
-– the troubleshooting, debugging, and corrections done in this chat.
-
----
-
 ## 📘 What I Learned
 
 - Kaggle and GitHub serve different purposes:
